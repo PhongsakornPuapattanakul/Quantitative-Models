@@ -1,2 +1,2 @@
-Qantitative-Model
+Quantitative-Models
 =================
